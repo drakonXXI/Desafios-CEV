@@ -1,2 +1,2 @@
 # Desafios-CEV
-Desafios do Curso em Vídeo. 
+Exercícios do Curso em Vídeo. 
